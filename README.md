@@ -300,6 +300,14 @@ markers, and enforcement sidebar populated.
 Use this if you want to verify the ML pipeline itself, or modify the source data /
 model parameters and regenerate outputs.
 
+> **The raw violation CSV is not in this repo** — it's `.gitignore`d (`data/raw/*.csv`)
+> since it's 105MB of row-level vehicle data, which is standard practice to keep out of
+> git history. To run Option B you need your own copy of the dataset placed at
+> `data/raw/violations_raw.csv` with the 24 columns documented in
+> [docs/FEATURES.md](docs/FEATURES.md) (`id, latitude, longitude, ..., validation_status`).
+> If you don't have it, stick to **Option A** — every output this pipeline produces is
+> already committed under `ml/output/`.
+
 ```bash
 python3.12 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt        # full ML + API stack
