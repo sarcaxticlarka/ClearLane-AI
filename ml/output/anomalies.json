@@ -1,0 +1,74 @@
+[
+  {
+    "zone_id": 2,
+    "centroid_lat": 12.9807566,
+    "centroid_lng": 77.5775772,
+    "dominant_police_station": "Upparpet",
+    "obstruction_score": 100.0,
+    "violation_count": 69214,
+    "anomaly_score": 0.1883
+  },
+  {
+    "zone_id": 20,
+    "centroid_lat": 12.9336471,
+    "centroid_lng": 77.6119667,
+    "dominant_police_station": "Adugodi",
+    "obstruction_score": 74.76,
+    "violation_count": 1424,
+    "anomaly_score": 0.0743
+  },
+  {
+    "zone_id": 100,
+    "centroid_lat": 13.0507592,
+    "centroid_lng": 77.5528497,
+    "dominant_police_station": "Jalahalli",
+    "obstruction_score": 41.37,
+    "violation_count": 73,
+    "anomaly_score": 0.0705
+  },
+  {
+    "zone_id": 167,
+    "centroid_lat": 12.8278374,
+    "centroid_lng": 77.6821457,
+    "dominant_police_station": "Electronic City",
+    "obstruction_score": 41.88,
+    "violation_count": 21,
+    "anomaly_score": 0.0658
+  },
+  {
+    "zone_id": 32,
+    "centroid_lat": 12.9454222,
+    "centroid_lng": 77.6027248,
+    "dominant_police_station": "Adugodi",
+    "obstruction_score": 72.52,
+    "violation_count": 21,
+    "anomaly_score": 0.05
+  },
+  {
+    "zone_id": 144,
+    "centroid_lat": 12.9207171,
+    "centroid_lng": 77.6003074,
+    "dominant_police_station": "Mico Layout",
+    "obstruction_score": 71.53,
+    "violation_count": 18,
+    "anomaly_score": 0.0291
+  },
+  {
+    "zone_id": 121,
+    "centroid_lat": 12.9171561,
+    "centroid_lng": 77.5959867,
+    "dominant_police_station": "Jayanagara",
+    "obstruction_score": 67.17,
+    "violation_count": 80,
+    "anomaly_score": 0.003
+  },
+  {
+    "zone_id": 28,
+    "centroid_lat": 12.9435717,
+    "centroid_lng": 77.5705741,
+    "dominant_police_station": "Basavanagudi",
+    "obstruction_score": 58.96,
+    "violation_count": 1170,
+    "anomaly_score": 0.0018
+  }
+]

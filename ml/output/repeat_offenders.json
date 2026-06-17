@@ -1,0 +1,452 @@
+[
+  {
+    "vehicle_number": "FKN00GL17863",
+    "vehicle_type": "CAR",
+    "violation_count": 26,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL9771",
+    "vehicle_type": "CAR",
+    "violation_count": 23,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL15265",
+    "vehicle_type": "MOTOR CYCLE",
+    "violation_count": 23,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL17388",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 18,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "High ground"
+  },
+  {
+    "vehicle_number": "FKN00GL1875",
+    "vehicle_type": "MOTOR CYCLE",
+    "violation_count": 17,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL1118",
+    "vehicle_type": "CAR",
+    "violation_count": 17,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Malleshwaram"
+  },
+  {
+    "vehicle_number": "FKN00GL25480",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 17,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL2819",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 16,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL12905",
+    "vehicle_type": "MAXI-CAB",
+    "violation_count": 16,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Halasur"
+  },
+  {
+    "vehicle_number": "FKN00GL18794",
+    "vehicle_type": "CAR",
+    "violation_count": 16,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL111727",
+    "vehicle_type": "MOTOR CYCLE",
+    "violation_count": 15,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL3514",
+    "vehicle_type": "PASSENGER AUTO",
+    "violation_count": 15,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL104980",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 15,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL7998",
+    "vehicle_type": "CAR",
+    "violation_count": 15,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Vijayanagara"
+  },
+  {
+    "vehicle_number": "FKN00GL6353",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 14,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL11705",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 14,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "High ground"
+  },
+  {
+    "vehicle_number": "FKN00GL22956",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 14,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "High ground"
+  },
+  {
+    "vehicle_number": "FKN00GL9990",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 14,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "High ground"
+  },
+  {
+    "vehicle_number": "FKN00GL0734",
+    "vehicle_type": "CAR",
+    "violation_count": 14,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Malleshwaram"
+  },
+  {
+    "vehicle_number": "FKN00GL0930",
+    "vehicle_type": "PASSENGER AUTO",
+    "violation_count": 14,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Malleshwaram"
+  },
+  {
+    "vehicle_number": "FKN00GL6946",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 13,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "High ground"
+  },
+  {
+    "vehicle_number": "FKN00GL0889",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 13,
+    "zone_ids": [
+      5
+    ],
+    "dominant_police_station": "HAL Old Airport"
+  },
+  {
+    "vehicle_number": "FKN00GL9182",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 13,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Vijayanagara"
+  },
+  {
+    "vehicle_number": "FKN00GL14092",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 13,
+    "zone_ids": [
+      5
+    ],
+    "dominant_police_station": "HAL Old Airport"
+  },
+  {
+    "vehicle_number": "FKN00GL6860",
+    "vehicle_type": "CAR",
+    "violation_count": 13,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL11475",
+    "vehicle_type": "CAR",
+    "violation_count": 13,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL32407",
+    "vehicle_type": "CAR",
+    "violation_count": 13,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL10831",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 13,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL2996",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 13,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "High ground"
+  },
+  {
+    "vehicle_number": "FKN00GL6780",
+    "vehicle_type": "CAR",
+    "violation_count": 13,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Malleshwaram"
+  },
+  {
+    "vehicle_number": "FKN00GL9526",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL94778",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL18450",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Vijayanagara"
+  },
+  {
+    "vehicle_number": "FKN00GL53686",
+    "vehicle_type": "CAR",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Halasur"
+  },
+  {
+    "vehicle_number": "FKN00GL0333",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL0420",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Vijayanagara"
+  },
+  {
+    "vehicle_number": "FKN00GL1175",
+    "vehicle_type": "CAR",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL2993",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "High ground"
+  },
+  {
+    "vehicle_number": "FKN00GL6355",
+    "vehicle_type": "MOTOR CYCLE",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL19357",
+    "vehicle_type": "CAR",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL58024",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL1199",
+    "vehicle_type": "MOTOR CYCLE",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL113054",
+    "vehicle_type": "MOTOR CYCLE",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL0635",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 12,
+    "zone_ids": [
+      5
+    ],
+    "dominant_police_station": "HAL Old Airport"
+  },
+  {
+    "vehicle_number": "FKN00GL101845",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  },
+  {
+    "vehicle_number": "FKN00GL1048",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 12,
+    "zone_ids": [
+      5
+    ],
+    "dominant_police_station": "HAL Old Airport"
+  },
+  {
+    "vehicle_number": "FKN00GL53263",
+    "vehicle_type": "CAR",
+    "violation_count": 12,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL60534",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 11,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL8361",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 11,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Upparpet"
+  },
+  {
+    "vehicle_number": "FKN00GL8564",
+    "vehicle_type": "SCOOTER",
+    "violation_count": 11,
+    "zone_ids": [
+      2
+    ],
+    "dominant_police_station": "Shivajinagar"
+  }
+]

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/raw/*.csv
+data/processed/*.parquet
+*.pkl
+*.graphml
+ml/cache/
+node_modules/
+frontend/dist/
+.DS_Store
+*.cache
+~$*
+/*.csv

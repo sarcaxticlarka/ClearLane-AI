@@ -1,0 +1,2146 @@
+{
+  "0": [
+    {
+      "vehicle_number": "FKN00GL15642",
+      "vehicle_type": "PRIVATE BUS",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL15652",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL16993",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL145703",
+      "vehicle_type": "MINI LORRY",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL156236",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 3
+    }
+  ],
+  "1": [
+    {
+      "vehicle_number": "FKN00GL11028",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 8
+    },
+    {
+      "vehicle_number": "FKN00GL13466",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL135552",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL164427",
+      "vehicle_type": "PRIVATE BUS",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL110547",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    }
+  ],
+  "2": [
+    {
+      "vehicle_number": "FKN00GL17863",
+      "vehicle_type": "CAR",
+      "violation_count": 26
+    },
+    {
+      "vehicle_number": "FKN00GL15265",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 23
+    },
+    {
+      "vehicle_number": "FKN00GL9771",
+      "vehicle_type": "CAR",
+      "violation_count": 23
+    },
+    {
+      "vehicle_number": "FKN00GL17388",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 18
+    },
+    {
+      "vehicle_number": "FKN00GL1118",
+      "vehicle_type": "CAR",
+      "violation_count": 17
+    }
+  ],
+  "3": [
+    {
+      "vehicle_number": "FKN00GL126249",
+      "vehicle_type": "VAN",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL117780",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL136870",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL59665",
+      "vehicle_type": "GOODS AUTO",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL30564",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 4
+    }
+  ],
+  "4": [
+    {
+      "vehicle_number": "FKN00GL115574",
+      "vehicle_type": "CAR",
+      "violation_count": 11
+    },
+    {
+      "vehicle_number": "FKN00GL16746",
+      "vehicle_type": "SCHOOL VEHICLE",
+      "violation_count": 9
+    },
+    {
+      "vehicle_number": "FKN00GL41594",
+      "vehicle_type": "LGV",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL40027",
+      "vehicle_type": "CAR",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL9597",
+      "vehicle_type": "CAR",
+      "violation_count": 5
+    }
+  ],
+  "5": [
+    {
+      "vehicle_number": "FKN00GL14092",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 13
+    },
+    {
+      "vehicle_number": "FKN00GL0889",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 13
+    },
+    {
+      "vehicle_number": "FKN00GL1048",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 12
+    },
+    {
+      "vehicle_number": "FKN00GL0635",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 12
+    },
+    {
+      "vehicle_number": "FKN00GL54261",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 10
+    }
+  ],
+  "6": [
+    {
+      "vehicle_number": "FKN00GL0468",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL15571",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL18876",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL65764",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "7": [
+    {
+      "vehicle_number": "FKN00GL78676",
+      "vehicle_type": "HGV",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL102783",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL1068",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL81259",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL192823",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "8": [
+    {
+      "vehicle_number": "FKN00GL111130",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL90246",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL25809",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL129268",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL123828",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    }
+  ],
+  "9": [
+    {
+      "vehicle_number": "FKN00GL23130",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 7
+    },
+    {
+      "vehicle_number": "FKN00GL73513",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL13270",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL148863",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL121581",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 4
+    }
+  ],
+  "10": [
+    {
+      "vehicle_number": "FKN00GL146957",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL104734",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL10681",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL163554",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL87278",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    }
+  ],
+  "12": [
+    {
+      "vehicle_number": "FKN00GL8979",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL59342",
+      "vehicle_type": "CAR",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL5362",
+      "vehicle_type": "CAR",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL140372",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL4125",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    }
+  ],
+  "13": [
+    {
+      "vehicle_number": "FKN00GL0109",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "14": [
+    {
+      "vehicle_number": "FKN00GL163231",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL163232",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL76432",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL76433",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "15": [
+    {
+      "vehicle_number": "FKN00GL111956",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL149268",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL120976",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL110075",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL110541",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    }
+  ],
+  "16": [
+    {
+      "vehicle_number": "FKN00GL16342",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 8
+    },
+    {
+      "vehicle_number": "FKN00GL57836",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 8
+    },
+    {
+      "vehicle_number": "FKN00GL57714",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL39902",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL17070",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 5
+    }
+  ],
+  "17": [
+    {
+      "vehicle_number": "FKN00GL128186",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL134333",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "19": [
+    {
+      "vehicle_number": "FKN00GL111525",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL114575",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL117186",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "20": [
+    {
+      "vehicle_number": "FKN00GL4211",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 9
+    },
+    {
+      "vehicle_number": "FKN00GL6558",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL17422",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL17423",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL13312",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    }
+  ],
+  "22": [
+    {
+      "vehicle_number": "FKN00GL110506",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL136125",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "23": [
+    {
+      "vehicle_number": "FKN00GL0049",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL67447",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL0941",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL78267",
+      "vehicle_type": "HGV",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL59194",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "24": [
+    {
+      "vehicle_number": "FKN00GL9585",
+      "vehicle_type": "CAR",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL48905",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL40637",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL48330",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL17177",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    }
+  ],
+  "25": [
+    {
+      "vehicle_number": "FKN00GL20170",
+      "vehicle_type": "LGV",
+      "violation_count": 9
+    },
+    {
+      "vehicle_number": "FKN00GL95885",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL104162",
+      "vehicle_type": "SCHOOL VEHICLE",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL0287",
+      "vehicle_type": "LGV",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL22303",
+      "vehicle_type": "PRIVATE BUS",
+      "violation_count": 2
+    }
+  ],
+  "26": [
+    {
+      "vehicle_number": "FKN00GL158902",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL123198",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL126489",
+      "vehicle_type": "LGV",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL152400",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL155880",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 2
+    }
+  ],
+  "27": [
+    {
+      "vehicle_number": "FKN00GL0829",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL122669",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL122766",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "28": [
+    {
+      "vehicle_number": "FKN00GL111010",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 9
+    },
+    {
+      "vehicle_number": "FKN00GL72851",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL41961",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL131791",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL187187",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    }
+  ],
+  "29": [
+    {
+      "vehicle_number": "FKN00GL13904",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "30": [
+    {
+      "vehicle_number": "FKN00GL9775",
+      "vehicle_type": "CAR",
+      "violation_count": 8
+    },
+    {
+      "vehicle_number": "FKN00GL118168",
+      "vehicle_type": "CAR",
+      "violation_count": 7
+    },
+    {
+      "vehicle_number": "FKN00GL82323",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL19373",
+      "vehicle_type": "CAR",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL121558",
+      "vehicle_type": "CAR",
+      "violation_count": 5
+    }
+  ],
+  "31": [
+    {
+      "vehicle_number": "FKN00GL30789",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL110962",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL30787",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL0446",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL103613",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    }
+  ],
+  "33": [
+    {
+      "vehicle_number": "FKN00GL149326",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 8
+    },
+    {
+      "vehicle_number": "FKN00GL146295",
+      "vehicle_type": "CAR",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL15336",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL17413",
+      "vehicle_type": "CAR",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL154128",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 4
+    }
+  ],
+  "35": [
+    {
+      "vehicle_number": "FKN00GL17394",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL33881",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL77781",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL178987",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL201158",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "36": [
+    {
+      "vehicle_number": "FKN00GL126961",
+      "vehicle_type": "MOPED",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL15074",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL182384",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL182397",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "38": [
+    {
+      "vehicle_number": "FKN00GL26070",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL143574",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL144003",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL146302",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL147524",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "40": [
+    {
+      "vehicle_number": "FKN00GL147031",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL131411",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL149567",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL160699",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "41": [
+    {
+      "vehicle_number": "FKN00GL1530",
+      "vehicle_type": "CAR",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL124755",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL128881",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL5016",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL147296",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    }
+  ],
+  "42": [
+    {
+      "vehicle_number": "FKN00GL60648",
+      "vehicle_type": "CAR",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL0629",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL40046",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL1623",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL40061",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 3
+    }
+  ],
+  "44": [
+    {
+      "vehicle_number": "FKN00GL161514",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL177939",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL11619",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL120160",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL38368",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "45": [
+    {
+      "vehicle_number": "FKN00GL19266",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "47": [
+    {
+      "vehicle_number": "FKN00GL14755",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 11
+    },
+    {
+      "vehicle_number": "FKN00GL11019",
+      "vehicle_type": "BUS (BMTC/KSRTC)",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL18328",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL125293",
+      "vehicle_type": "GOODS AUTO",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL126405",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 3
+    }
+  ],
+  "48": [
+    {
+      "vehicle_number": "FKN00GL1896",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL179475",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL2444",
+      "vehicle_type": "TEMPO",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL122477",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL132008",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "49": [
+    {
+      "vehicle_number": "FKN00GL175048",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL17726",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL190542",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL11482",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL155990",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "50": [
+    {
+      "vehicle_number": "FKN00GL122540",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL122547",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL122735",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL125621",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL153199",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "51": [
+    {
+      "vehicle_number": "FKN00GL114289",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 2
+    }
+  ],
+  "53": [
+    {
+      "vehicle_number": "FKN00GL13366",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL2071",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL25365",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL109782",
+      "vehicle_type": "TANKER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL145448",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "55": [
+    {
+      "vehicle_number": "FKN00GL1208",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL166360",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "56": [
+    {
+      "vehicle_number": "FKN00GL112479",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL212938",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "57": [
+    {
+      "vehicle_number": "FKN00GL40276",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL15663",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL65860",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL4345",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL26296",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 3
+    }
+  ],
+  "58": [
+    {
+      "vehicle_number": "FKN00GL108702",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL124899",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL136973",
+      "vehicle_type": "GOODS AUTO",
+      "violation_count": 2
+    }
+  ],
+  "60": [
+    {
+      "vehicle_number": "FKN00GL199786",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "61": [
+    {
+      "vehicle_number": "FKN00GL4424",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 11
+    },
+    {
+      "vehicle_number": "FKN00GL102126",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 7
+    },
+    {
+      "vehicle_number": "FKN00GL125539",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL16580",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL6629",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 4
+    }
+  ],
+  "62": [
+    {
+      "vehicle_number": "FKN00GL121021",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL121020",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL127207",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL127757",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL127773",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "64": [
+    {
+      "vehicle_number": "FKN00GL115128",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL112191",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL115127",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL115129",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL148690",
+      "vehicle_type": "MOPED",
+      "violation_count": 2
+    }
+  ],
+  "67": [
+    {
+      "vehicle_number": "FKN00GL6420",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 7
+    },
+    {
+      "vehicle_number": "FKN00GL1498",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL6334",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL21714",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL123469",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    }
+  ],
+  "68": [
+    {
+      "vehicle_number": "FKN00GL1502",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL83889",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL118211",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL161974",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL173449",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "69": [
+    {
+      "vehicle_number": "FKN00GL18562",
+      "vehicle_type": "LGV",
+      "violation_count": 2
+    }
+  ],
+  "70": [
+    {
+      "vehicle_number": "FKN00GL176385",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL92784",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL115099",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL130070",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL183203",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "72": [
+    {
+      "vehicle_number": "FKN00GL114744",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL1798",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL201047",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL3751",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL45357",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "73": [
+    {
+      "vehicle_number": "FKN00GL5179",
+      "vehicle_type": "CAR",
+      "violation_count": 5
+    },
+    {
+      "vehicle_number": "FKN00GL5178",
+      "vehicle_type": "LGV",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL114579",
+      "vehicle_type": "MOPED",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL137888",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL5173",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "74": [
+    {
+      "vehicle_number": "FKN00GL3909",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL134003",
+      "vehicle_type": "LGV",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL66155",
+      "vehicle_type": "LGV",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL3880",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL3866",
+      "vehicle_type": "HGV",
+      "violation_count": 3
+    }
+  ],
+  "76": [
+    {
+      "vehicle_number": "FKN00GL117626",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "78": [
+    {
+      "vehicle_number": "FKN00GL162837",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL175368",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL1994",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL65959",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL66511",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "79": [
+    {
+      "vehicle_number": "FKN00GL16458",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "81": [
+    {
+      "vehicle_number": "FKN00GL116401",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL118322",
+      "vehicle_type": "PRIVATE BUS",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL121336",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL121435",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL126063",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 2
+    }
+  ],
+  "82": [
+    {
+      "vehicle_number": "FKN00GL127476",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL134524",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL135476",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL149639",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL165169",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "83": [
+    {
+      "vehicle_number": "FKN00GL6855",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 11
+    },
+    {
+      "vehicle_number": "FKN00GL18558",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 10
+    },
+    {
+      "vehicle_number": "FKN00GL16589",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 10
+    },
+    {
+      "vehicle_number": "FKN00GL14474",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 9
+    },
+    {
+      "vehicle_number": "FKN00GL111071",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 8
+    }
+  ],
+  "84": [
+    {
+      "vehicle_number": "FKN00GL113384",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL115315",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL8108",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "85": [
+    {
+      "vehicle_number": "FKN00GL5002",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "86": [
+    {
+      "vehicle_number": "FKN00GL2649",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL185453",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL192839",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL2561",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "87": [
+    {
+      "vehicle_number": "FKN00GL117542",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "90": [
+    {
+      "vehicle_number": "FKN00GL25369",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL10524",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL132845",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL1492",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL162081",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "93": [
+    {
+      "vehicle_number": "FKN00GL110505",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL198533",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL95758",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "95": [
+    {
+      "vehicle_number": "FKN00GL112338",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL179264",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL82083",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "97": [
+    {
+      "vehicle_number": "FKN00GL112436",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL112460",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL160742",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL172917",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL180883",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "98": [
+    {
+      "vehicle_number": "FKN00GL140639",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL122150",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL196756",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL64058",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL111509",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "99": [
+    {
+      "vehicle_number": "FKN00GL3832",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 8
+    },
+    {
+      "vehicle_number": "FKN00GL25810",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 7
+    },
+    {
+      "vehicle_number": "FKN00GL7168",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL7161",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL143089",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    }
+  ],
+  "100": [
+    {
+      "vehicle_number": "FKN00GL15110",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL94198",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "101": [
+    {
+      "vehicle_number": "FKN00GL72104",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "102": [
+    {
+      "vehicle_number": "FKN00GL188146",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "103": [
+    {
+      "vehicle_number": "FKN00GL125574",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL13756",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL147327",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL17630",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL95799",
+      "vehicle_type": "MAXI-CAB",
+      "violation_count": 2
+    }
+  ],
+  "105": [
+    {
+      "vehicle_number": "FKN00GL85291",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "107": [
+    {
+      "vehicle_number": "FKN00GL170871",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "108": [
+    {
+      "vehicle_number": "FKN00GL148520",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL149207",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL147786",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL149422",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL149261",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    }
+  ],
+  "113": [
+    {
+      "vehicle_number": "FKN00GL9556",
+      "vehicle_type": "CAR",
+      "violation_count": 5
+    }
+  ],
+  "114": [
+    {
+      "vehicle_number": "FKN00GL132808",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL214008",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "115": [
+    {
+      "vehicle_number": "FKN00GL126068",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL126072",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL130506",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL155178",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL155186",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    }
+  ],
+  "116": [
+    {
+      "vehicle_number": "FKN00GL138427",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "119": [
+    {
+      "vehicle_number": "FKN00GL116138",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "121": [
+    {
+      "vehicle_number": "FKN00GL117270",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL147195",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "122": [
+    {
+      "vehicle_number": "FKN00GL139112",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL144853",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "125": [
+    {
+      "vehicle_number": "FKN00GL124531",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 6
+    },
+    {
+      "vehicle_number": "FKN00GL132395",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL118528",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL103496",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL106273",
+      "vehicle_type": "GOODS AUTO",
+      "violation_count": 2
+    }
+  ],
+  "130": [
+    {
+      "vehicle_number": "FKN00GL165128",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL76387",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "131": [
+    {
+      "vehicle_number": "FKN00GL112568",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL153167",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL153433",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL153451",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL154892",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "134": [
+    {
+      "vehicle_number": "FKN00GL144514",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "136": [
+    {
+      "vehicle_number": "FKN00GL57811",
+      "vehicle_type": "VAN",
+      "violation_count": 3
+    }
+  ],
+  "141": [
+    {
+      "vehicle_number": "FKN00GL195142",
+      "vehicle_type": "PASSENGER AUTO",
+      "violation_count": 2
+    }
+  ],
+  "144": [
+    {
+      "vehicle_number": "FKN00GL203953",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "145": [
+    {
+      "vehicle_number": "FKN00GL63938",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL70048",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "148": [
+    {
+      "vehicle_number": "FKN00GL112853",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "150": [
+    {
+      "vehicle_number": "FKN00GL110404",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL110421",
+      "vehicle_type": "LGV",
+      "violation_count": 2
+    }
+  ],
+  "151": [
+    {
+      "vehicle_number": "FKN00GL110432",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL121373",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL121379",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL121372",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL121374",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "152": [
+    {
+      "vehicle_number": "FKN00GL110654",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "154": [
+    {
+      "vehicle_number": "FKN00GL150698",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "155": [
+    {
+      "vehicle_number": "FKN00GL121429",
+      "vehicle_type": "CAR",
+      "violation_count": 4
+    },
+    {
+      "vehicle_number": "FKN00GL115669",
+      "vehicle_type": "CAR",
+      "violation_count": 3
+    },
+    {
+      "vehicle_number": "FKN00GL123183",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL125005",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL125018",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "156": [
+    {
+      "vehicle_number": "FKN00GL154222",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "158": [
+    {
+      "vehicle_number": "FKN00GL118444",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL124068",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL126239",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL126426",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "160": [
+    {
+      "vehicle_number": "FKN00GL136283",
+      "vehicle_type": "PRIVATE BUS",
+      "violation_count": 2
+    }
+  ],
+  "162": [
+    {
+      "vehicle_number": "FKN00GL169441",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "163": [
+    {
+      "vehicle_number": "FKN00GL3569",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ],
+  "165": [
+    {
+      "vehicle_number": "FKN00GL131090",
+      "vehicle_type": "CAR",
+      "violation_count": 2
+    }
+  ],
+  "167": [
+    {
+      "vehicle_number": "FKN00GL127887",
+      "vehicle_type": "PRIVATE BUS",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL140591",
+      "vehicle_type": "PRIVATE BUS",
+      "violation_count": 2
+    }
+  ],
+  "171": [
+    {
+      "vehicle_number": "FKN00GL138067",
+      "vehicle_type": "LGV",
+      "violation_count": 2
+    }
+  ],
+  "176": [
+    {
+      "vehicle_number": "FKN00GL159677",
+      "vehicle_type": "MOTOR CYCLE",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL159679",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    },
+    {
+      "vehicle_number": "FKN00GL159709",
+      "vehicle_type": "SCOOTER",
+      "violation_count": 2
+    }
+  ]
+}
