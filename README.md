@@ -302,11 +302,11 @@ model parameters and regenerate outputs.
 
 > **The raw violation CSV is not in this repo** — it's `.gitignore`d (`data/raw/*.csv`)
 > since it's 105MB of row-level vehicle data, which is standard practice to keep out of
-> git history. To run Option B you need your own copy of the dataset placed at
-> `data/raw/violations_raw.csv` with the 24 columns documented in
-> [docs/FEATURES.md](docs/FEATURES.md) (`id, latitude, longitude, ..., validation_status`).
-> If you don't have it, stick to **Option A** — every output this pipeline produces is
-> already committed under `ml/output/`.
+> git history. Download it here: **[violations dataset (Google Drive)](https://drive.google.com/file/d/1Xv-rRf2ELxXIBwOJE19WHpNYWJ1qpuBE/view?usp=sharing)**,
+> then place it at `data/raw/violations_raw.csv`. It should have the 24 columns
+> documented in [docs/FEATURES.md](docs/FEATURES.md) (`id, latitude, longitude, ...,
+> validation_status`). If you'd rather skip this, stick to **Option A** — every output
+> this pipeline produces is already committed under `ml/output/`.
 
 ```bash
 python3.12 -m venv .venv && source .venv/bin/activate
