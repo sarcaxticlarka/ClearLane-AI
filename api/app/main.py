@@ -10,16 +10,13 @@ from fastapi.middleware.gzip import GZipMiddleware
 load_dotenv()
 
 from . import models
-from .keepalive import run_keepalive
 from .state import store
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     store.load()
-    keepalive_task = asyncio.create_task(run_keepalive())
     yield
-    keepalive_task.cancel()
 
 
 app = FastAPI(title="ClearLane AI API", lifespan=lifespan)
@@ -35,7 +32,7 @@ app.add_middleware(
 
 @app.get("/api/health")
 async def health():
-    """Cheap target for the self-ping keepalive and uptime monitors — no JSON body work."""
+    """Cheap target for uptime monitors — no JSON body work."""
     return {"status": "ok"}
 
 

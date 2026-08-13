@@ -361,19 +361,6 @@ The live deployment uses **Render** for the API and **Vercel** for the frontend:
 2. **Frontend on Vercel** — Import this repo → root directory `frontend` → set
    `VITE_API_BASE_URL` to your Render URL.
 
-**Keeping the free Render instance awake:** Render's free tier sleeps after ~15 minutes
-of no inbound traffic, then takes ~50s to cold-start on the next request. Once deployed,
-set these two extra env vars on the **Render** service (not locally):
-```
-SELF_PING_URL=https://<your-app>.onrender.com
-SELF_PING_INTERVAL_SECONDS=600
-```
-The API ([api/app/keepalive.py](api/app/keepalive.py)) then pings its own public
-`/api/health` endpoint every 10 minutes in a background task — comfortably under the
-15-minute sleep threshold — so it never goes idle long enough to spin down. This is a
-no-op anywhere `SELF_PING_URL` is unset (local dev included). Note the interval must
-stay under ~15 minutes; a longer interval would let it sleep before the next ping fires.
-
 ---
 
 ## API reference
